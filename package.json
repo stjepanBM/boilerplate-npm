@@ -1,6 +1,12 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "matic",
+	"description": "Node test application",
+	"version": "1.0.0",
+	"keywords": [
+		"Node",
+		"TestEnv"
+	],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
